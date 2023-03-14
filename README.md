@@ -1,4 +1,4 @@
-# LetsGrowMore Virtual Internship Task 2
+# create-React-app
 
 This project was built as an Internship project for LetsGrowMore. A web application created using create-react-app. 
 
